@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426600177110",
+    "project_id": "sign-in-tic-tac-toe",
+    "storage_bucket": "sign-in-tic-tac-toe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426600177110:android:b1cd8408bd8c5ade831877",
+        "android_client_info": {
+          "package_name": "com.example.tic_tac_toe_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426600177110-pg5ksq0c3fun959lp48vqmfdefaij17c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9XVc0ZdbE_zWgMVvDganziSr1O00PGu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426600177110-kh54227kp6dksoe1b4ag69b430jdevdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
